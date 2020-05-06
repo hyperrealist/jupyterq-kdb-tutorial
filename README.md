@@ -13,4 +13,4 @@ conda install -c kx jupyterq
 ```
 Alternatively, you can get things set up using docker or by installing individual components yourself. Follow the instructions listed [here](https://code.kx.com/q/ml/setup/).<br>
 
-****NOTE**: Official website mentions that jupyterq will only work on the base conda environment. However, I was able to get it running on a different environment without doing anything special. I will be using jupyter lab to create the notebooks.*
+****NOTE**: Official website mentions that jupyterq will only work in the base conda environment. However, I was able to get it running on a different environment without doing anything special. I will be using jupyter lab to create the notebooks.*
